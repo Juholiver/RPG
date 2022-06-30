@@ -1,0 +1,15 @@
+C:\Angular\DigitalOne\DotNetRpg\bin\Debug\net6.0\DotNetRpg.exe
+C:\Angular\DigitalOne\DotNetRpg\bin\Debug\net6.0\DotNetRpg.deps.json
+C:\Angular\DigitalOne\DotNetRpg\bin\Debug\net6.0\DotNetRpg.runtimeconfig.json
+C:\Angular\DigitalOne\DotNetRpg\bin\Debug\net6.0\DotNetRpg.dll
+C:\Angular\DigitalOne\DotNetRpg\bin\Debug\net6.0\DotNetRpg.pdb
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.csproj.AssemblyReference.cache
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.AssemblyInfoInputs.cache
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.AssemblyInfo.cs
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.csproj.CoreCompileInputs.cache
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.dll
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\refint\DotNetRpg.dll
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.pdb
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\DotNetRpg.genruntimeconfig.cache
+C:\Angular\DigitalOne\DotNetRpg\obj\Debug\net6.0\ref\DotNetRpg.dll
